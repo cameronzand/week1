@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+
+.navlogo {
+	padding-right: 10px;
+}
+
+.navhome {
+	padding-right: 10px;
+}
+
+.navpricing {
+	padding-right: 10px;
+}
+
+.navcontact {
+	padding-right: 10px;
+}
