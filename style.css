@@ -103,10 +103,24 @@ nav {
 	vertical-align: top;
 
 
+
 }
 
+ 
 
+.smallbiz {
+ 	
+	background: #223B70;
+	width: 100%;
+	height: 175px;
+	//float: left;
+}
 
+.enterprise {
+	background: #0E0E0E;
+	width: 100%;
+	height: 175px;
+}
 
 
 
