@@ -228,7 +228,12 @@ hr {
 	width: 400px;
 }
 
-.greytext {
+.greytext  {
+
+	color: grey;
+}
+
+.greytextnav a {
 	color: grey;
 }
 
@@ -245,10 +250,23 @@ hr {
 	background-color: black;
 }
 
-a:link {
+.linkblack {
 	color: lightgrey;
 }
 
 .numbers {
 	font-size: 60px;
+}
+
+.spacing {
+	letter-spacing: 2px;
+}
+
+.navtext a {
+	text-decoration: none;
+}
+
+.blacktext a {
+	color: black;
+	text-decoration: none;
 }
