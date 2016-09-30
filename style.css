@@ -204,6 +204,51 @@ hr {
 
 }
 
+.loremunder {
+	clear: both;
+	margin: 0px;
+}
 
+.loremunder1 {
+	float: left;
+	clear: both;
+	padding-top: 50px;
+	margin-left: 100px;
+	//margin-top: 50px;
+	width: 400px;
 
+}
 
+.loremunder2 {
+	float: left;
+	overflow: hidden;
+	padding-top: 50px;
+	margin-left: 100px;
+	//margin-top: 50px;
+	width: 400px;
+}
+
+.greytext {
+	color: grey;
+}
+
+.footernav {
+	clear: both;
+	padding-top: 20px;
+	width: 1100px;
+	height: 60px;
+	background-color: black;
+}
+
+//.footer {
+	width: 1100px;
+	background-color: black;
+}
+
+a:link {
+	color: lightgrey;
+}
+
+.numbers {
+	font-size: 60px;
+}
