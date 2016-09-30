@@ -122,5 +122,14 @@ nav {
 	height: 175px;
 }
 
+hr {
+    display: block;
+   // height: .5px;
+    //border: 0;
+    border-top: 1px solid #E6E6E6;
+    //margin: 1em 0;
+    //padding: 0; 
+    //background-color: red;
+}
 
 
