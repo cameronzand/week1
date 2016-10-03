@@ -314,7 +314,9 @@ hr {
 	font-size: 75px;
 }
 
-
+.lightgreytext {
+	color: lightgrey;
+}
 
 
 
@@ -428,7 +430,7 @@ hr {
 }
 
 .spacing {
-	letter-spacing: 2px;
+	letter-spacing: 3px;
 }
 
 .navtext a {
